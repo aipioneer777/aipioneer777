@@ -1,35 +1,24 @@
-<h1 align="center">Hi 👋, I'm King</h1>
-<h3 align="left">About Me:</h3>
-<p align="left">I am a PHP and Ruby on Rails developer with over 7 years of experience building scalable and secure web applications. I specialize in Laravel, CI, Rails, MySQL, PostgreSQL, and RESTful API design. I enjoy creating clean backend logic and integrating services that power smooth user experiences. I’m comfortable working with Docker, Git, CI/CD pipelines, and Agile teams to deliver projects on time. I write maintainable code, optimize performance, and focus on delivering real value through efficient development practices.
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
+### 🖥️ Fullstack Engineer | Node | React | Next | Python | Javascript | Typescript | AI | ML 🖥️
+
+---
+
+👌Hi, I’m a _**Full Stack Developer**_ with 10+ years of experience, specializing in _**Python**_, _**Django**_, _**Node**_, _**React**_, _**Next**_, _**AI**_ to build scalable, high-performance web applications. I create seamless, responsive user experiences using React and Vue.js, ensuring modern and dynamic frontends. On the DevOps side, I work with Docker, Kubernetes, and CI/CD pipelines to automate deployments and optimize infrastructure. My expertise in RESTful APIs, PostgreSQL, Redis, and Elasticsearch enhances backend performance and data efficiency. I also integrate AI technologies like TensorFlow, OpenAI, and scikit-learn to build smart, data-driven applications. Passionate about clean code, TDD, and scalable architectures, I thrive in Agile environments, always delivering innovative and efficient software solutions.👍  
+LLM/ML
+
+---
+
 <div align="center">
   <p align="left"> 
     <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"> 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" alt="PHP" width="40" height="40"></img>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="python" width="40" height="40"/> 
     </a>  
     <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original-wordmark.svg" alt="Ruby" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> 
     </a> 
-    <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" height="40"/>
-    </a> 
-    <a href="" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="bootstrap" width="40" height="40"/> 
-    </a>  
-    <a href="" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="bootstrap" width="40" height="40"/> 
-    </a>  
-    <a href="" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" alt="bootstrap" width="40" height="40"/> 
-    </a>  
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
     </a>  
-    <a href="" target="_blank" rel="noreferrer"> 
-      <img src=    "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="bootstrap" width="40" height="40"/> 
-    </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a> 
@@ -61,7 +50,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> 
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
     </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
@@ -70,7 +59,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a> 
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="40" height="40"/> 
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
     </a> 
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
@@ -94,3 +83,11 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
     </a>
   </p>
+</div>
+
+<h1 align="center"></h1>
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=aipioneer777&show_icons=true&count_private=true&theme=algolia"/>
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aipioneer777&layout=compact&theme=algolia&count_private=true" /> 
+<img height="150px" />
+<br/>  
+
